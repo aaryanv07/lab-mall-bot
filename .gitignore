@@ -1,0 +1,14 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.env
+venv/
+.vscode/
+shopify_backup.sql
+Merged.csv

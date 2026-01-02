@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pymysql
+cryptography
+requests
+python-multipart
+pandas
+aiofiles
+pydantic
