@@ -16,7 +16,7 @@ from crud import (
 app = FastAPI()
 
 # ⚠️ REPLACE with your actual Cloud Run URL
-BASE_URL = "https://lab-mall-service-969631280514.us-central1.run.app"
+BASE_URL = "Your_Cloud_Rum"
 user_sessions = {}
 
 # --- HELPER: NORMALIZE MOBILE ---
