@@ -32,8 +32,8 @@ def get_connection():
         return pymysql.connect(
             host=db_host,
             user='root',             # Update if needed for local
-            password='Aaryan15512$', # Update if needed for local
-            database='shopify',      # Update if needed for local
+            password='Your_Pass', # Update if needed for local
+            database='Your_db',      # Update if needed for local
             cursorclass=pymysql.cursors.DictCursor,
             autocommit=True
         )
